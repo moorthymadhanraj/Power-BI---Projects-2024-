@@ -23,7 +23,8 @@
 4) Sintec has 21.15% of the total market share across the globe
 
 <b>Tools Used:</b> MS Power BI Desktop & Service </br>
-<b>Analyzed Date:</b> 23-Feb-2024
+<b>Analyzed Date:</b> 23-Feb-2024</br>
+<b>Content:</b> Refer current  repository
 ************************************************************************************
 
 
