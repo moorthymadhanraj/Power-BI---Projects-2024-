@@ -16,13 +16,13 @@
 4) Sales compared to previous year
 5) and more....
 
-# Keg questions answered:
+## Key questions answered:
 1) Sintec has total market share of 38.22% in the USA 
 2) Highest Growth of 18.8% in 2021 compared to last year
 3) Artisans is generating revenue with over 50% of the market share in Germany 
 4) Sintec has 21.15% of the total market share across the globe
 
-Tools Used: MS Power BI Desktop & Service
+<b>Tools Used:</b> MS Power BI Desktop & Service
 Analyzed Date: 23-Feb-2024
 ************************************************************************************
 
