@@ -22,8 +22,8 @@
 3) Artisans is generating revenue with over 50% of the market share in Germany 
 4) Sintec has 21.15% of the total market share across the globe
 
-<b>Tools Used:</b> MS Power BI Desktop & Service
-Analyzed Date: 23-Feb-2024
+<b>Tools Used:</b> MS Power BI Desktop & Service </n>
+<b>Analyzed Date:</b> 23-Feb-2024
 ************************************************************************************
 
 
