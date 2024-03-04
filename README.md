@@ -3,7 +3,7 @@
 Reporting: Sales, Marketing, Finance
 
 1) Case Study: Competitor Sales Analysis in Power BI
-# Scenario: 
+## Scenario: 
 1) Analyze manufacturers sales internally
 2) Comparing sales against other competitors
 3) Comparing product performance against other competitors
@@ -27,6 +27,16 @@ Reporting: Sales, Marketing, Finance
 <b>Content:</b> Refer current  repository
 ************************************************************************************
 
-2) Case Study: Competitor Sales Analysis in Power BI
+2) Case Study: Executive Summary - Finance
 
+## Scenario: 
+1) Analyze sales figures from the data to answer busines questions
 
+## Business insights to uncover
+1) Which month and year had the most profit?
+2) Where is the company seeing the most success (by country/region)?
+3) Which product and segment should the company continue to invest in?
+
+## Key questions answered:
+1) 
+2) 
