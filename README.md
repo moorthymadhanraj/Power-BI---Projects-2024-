@@ -2,7 +2,7 @@
 
 Reporting: Sales, Marketing, Finance
 
-1) Case Study: Competitor Sales Analysis in Power BI
+# 1) Case Study: Competitor Sales Analysis in Power BI
 
 ![Dashboard_Snapshot](https://github.com/moorthymadhanraj/Power-BI-Projects-2024/assets/51472231/d15a5cb4-0873-4415-9719-1015d67ff49b)
 
