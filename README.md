@@ -1,10 +1,9 @@
 # Power BI Projects (2024)
 
+Reporting: Sales, Marketing, Finance
+
 1) Case Study: Competitor Sales Analysis in Power BI
-2) Reporting: Sales, Marketing, Finance
-
 # Scenario: 
-
 1) Analyze manufacturers sales internally
 2) Comparing sales against other competitors
 3) Comparing product performance against other competitors
@@ -27,5 +26,7 @@
 <b>Analyzed Date:</b> 23-Feb-2024</br>
 <b>Content:</b> Refer current  repository
 ************************************************************************************
+
+2) Case Study: Competitor Sales Analysis in Power BI
 
 
