@@ -32,11 +32,13 @@ Reporting: Sales, Marketing, Finance
 ## Scenario: 
 1) Analyze sales figures from the data to answer busines questions
 
-## Business insights to uncover
-1) Which month and year had the most profit?
-2) Where is the company seeing the most success (by country/region)?
-3) Which product and segment should the company continue to invest in?
+## Business insights to uncover & answers
+1) Which month and year had the most profit?</br>
+    - December 2014
 
-## Key questions answered:
-1) 
-2) 
+2) Where is the company seeing the most success (by country/region)?</br>
+    - In Europe, specifically France and Germany
+
+3) Which product and segment should the company continue to invest in?</br>
+    - The company should continue to invest in the Paseo product and target the Small Business and Government segments
+
