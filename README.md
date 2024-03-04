@@ -28,6 +28,7 @@ Reporting: Sales, Marketing, Finance
 ************************************************************************************
 
 2) Case Study: Executive Summary - Finance
+![Executive-Summary-Report](https://github.com/moorthymadhanraj/Power-BI-Projects-2024/assets/51472231/506d6737-c59a-4517-bdc5-140305f8b423)
 
 ## Scenario: 
 1) Analyze sales figures from the data to answer busines questions
