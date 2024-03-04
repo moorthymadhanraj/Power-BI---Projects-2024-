@@ -42,3 +42,7 @@ Reporting: Sales, Marketing, Finance
 3) Which product and segment should the company continue to invest in?</br>
     - The company should continue to invest in the Paseo product and target the Small Business and Government segments
 
+<b>Tools Used:</b> Excel Sheet, MS Power BI Desktop & Service </br>
+<b>Analyzed Date:</b> 04-Mar-2024</br>
+<b>Content:</b> Refer current  repository
+************************************************************************************
