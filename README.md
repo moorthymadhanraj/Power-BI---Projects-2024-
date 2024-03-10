@@ -51,3 +51,11 @@ Reporting: Sales, Marketing, Finance
 <b>Analyzed Date:</b> 04-Mar-2024</br>
 <b>Content:</b> Refer current  repository
 ************************************************************************************
+
+# 3) Case Study: Ecommerce Analysis in Power BI
+
+## Scenario: 
+1) xxxxxxxxxxxxxxxx
+
+## Business insights to uncover
+1) Who are the top competitors generating the most revenue? 
