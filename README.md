@@ -55,7 +55,10 @@ Reporting: Sales, Marketing, Finance
 # 3) Case Study: Ecommerce Analysis in Power BI
 
 ## Scenario: 
-1) xxxxxxxxxxxxxxxx
+1) ----------
 
 ## Business insights to uncover
-1) Who are the top competitors generating the most revenue? 
+1) ----------
+
+## Key questions answered:
+1) ----------
