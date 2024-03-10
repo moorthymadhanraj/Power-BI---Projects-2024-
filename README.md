@@ -54,7 +54,7 @@ Reporting: Sales, Marketing, Finance
 
 # 3) Case Study: Ecommerce Analysis in Power BI
 
-What-If Analysis
+What-If & Shpping Metrics
 ![alt text](What-If-Analysis-1.JPG)
 
 ## Scenario: 
@@ -63,7 +63,8 @@ What-If Analysis
 ## Focus
 1) Increase in sales
 2) Reducing shipping costs
-3) What-If & Market Basket Analysis
+3) What-If & Shpping Metrics
+4) Market Basket Analysis
 
 <b>Tools Used:</b> CSV, MS Power BI Desktop & Service </br>
 <b>Analyzed Date:</b> 10-Mar-2024</br>
