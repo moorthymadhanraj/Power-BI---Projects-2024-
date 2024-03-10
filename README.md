@@ -71,5 +71,5 @@ Reporting: Sales, Marketing, Finance
 
 <b>Tools Used:</b> CSV, MS Power BI Desktop & Service </br>
 <b>Analyzed Date:</b> 10-Mar-2024</br>
-<b>Content:</b> Refer current  repository
+<b>Content:</b> -
 ************************************************************************************
