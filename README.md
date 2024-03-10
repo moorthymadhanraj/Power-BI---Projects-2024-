@@ -55,7 +55,7 @@ Reporting: Sales, Marketing, Finance
 # 3) Case Study: Ecommerce Analysis in Power BI
 
 What-If Analysis
-
+![alt text](What-If-Analysis-1.JPG)
 
 ## Scenario: 
 1) Analyze the sales data from real-world Ecommerce store
