@@ -58,7 +58,7 @@ What-If & Shpping Metrics
 ![alt text](What-If-Analysis-1.JPG)
 
 Market Basket Analysis
-
+![alt text](Market-Basket-Analysis.JPG)
 
 ## Scenario: 
 1) Analyze the sales data from real-world Ecommerce store
